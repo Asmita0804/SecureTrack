@@ -54,3 +54,12 @@ Risk levels:
 - User authentication.
 - More detailed compliance reports.
 - Additional cybersecurity frameworks.
+
+
+## Screenshots
+
+### Risk Overview
+![SecureTrack Risk Overview](risk-overview.png)
+
+### Risk Register
+![SecureTrack Risk Register](risk-register.png)
